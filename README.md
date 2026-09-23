@@ -8,9 +8,9 @@ Aprendizado de Máquina (Ciência da Computação).
 
 ```
 ├── __init__.py
-├── logic.py        # núcleo matemático: RodadaPenalti (sorteio, escolha, revelação, decisão)
-├── simulation.py    # simulação em massa e curvas de convergência
-│── app.py           # front-end interativo (Streamlit)
+├── logic.py        
+├── simulation.py    
+│── app.py           
 ├── requirements.txt
 └── README.md
 ```
@@ -24,10 +24,10 @@ streamlit run penalty_hall/app.py
 
 A interface abre no navegador com três abas:
 
-- **Jogar** — cobre pênaltis rodada a rodada, escolhendo manter ou trocar.
-- **Simulação** — roda milhares de partidas instantaneamente e compara as
+- **Jogar** - cobre pênaltis rodada a rodada, escolhendo manter ou trocar.
+- **Simulação** - roda milhares de partidas instantaneamente e compara as
   estratégias com gráficos.
-- **Como funciona** — explica o raciocínio matemático por trás do problema.
+- **Como funciona** - explica o raciocínio matemático por trás do problema.
 
 ## Rodando só a simulação (sem interface)
 
