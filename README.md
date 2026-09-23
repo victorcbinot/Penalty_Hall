@@ -32,7 +32,7 @@ A interface abre no navegador com três abas:
 ## Rodando só a simulação (sem interface)
 
 ```bash
-python -m penalty_hall.simulation
+python -m simulation
 ```
 
 Imprime no terminal o resultado de 10.000 rodadas para cada estratégia.
