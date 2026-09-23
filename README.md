@@ -7,12 +7,10 @@ Aprendizado de Máquina (Ciência da Computação).
 ## Estrutura do projeto
 
 ```
-penalty_hall/
-├── penalty_hall/
-│   ├── __init__.py
-│   ├── logic.py        # núcleo matemático: RodadaPenalti (sorteio, escolha, revelação, decisão)
-│   ├── simulation.py    # simulação em massa e curvas de convergência
-│   └── app.py           # front-end interativo (Streamlit)
+├── __init__.py
+├── logic.py        # núcleo matemático: RodadaPenalti (sorteio, escolha, revelação, decisão)
+├── simulation.py    # simulação em massa e curvas de convergência
+│── app.py           # front-end interativo (Streamlit)
 ├── requirements.txt
 └── README.md
 ```
