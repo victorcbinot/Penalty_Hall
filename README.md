@@ -1,4 +1,4 @@
-# Penalty Hall ⚽
+# Penalty Hall 
 
 Adaptação do **Problema de Monty Hall** para o contexto de cobranças de pênalti
 no futebol, desenvolvida para a disciplina de Modelagem Linear para
