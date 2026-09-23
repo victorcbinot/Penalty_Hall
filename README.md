@@ -7,6 +7,7 @@ Aprendizado de Máquina (Ciência da Computação).
 ## Estrutura do projeto
 
 ```
+├── .gitignore
 ├── __init__.py
 ├── logic.py        
 ├── simulation.py    
