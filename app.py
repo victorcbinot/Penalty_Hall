@@ -12,8 +12,8 @@ from __future__ import annotations
 import matplotlib.pyplot as plt
 import streamlit as st
 
-from penalty_hall.logic import REGIOES, Regiao, RodadaPenalti
-from penalty_hall.simulation import evolucao_convergencia, simular_comparacao
+from logic import REGIOES, Regiao, RodadaPenalti
+from simulation import evolucao_convergencia, simular_comparacao
 
 # --------------------------------------------------------------------------
 # Configuração da página e estilo (tema futebol)

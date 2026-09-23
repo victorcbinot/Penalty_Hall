@@ -12,7 +12,7 @@ import random
 from dataclasses import dataclass
 from typing import Dict, List, Tuple
 
-from .logic import REGIOES, RodadaPenalti
+from logic import REGIOES, RodadaPenalti
 
 
 @dataclass
