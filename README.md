@@ -19,7 +19,7 @@ Aprendizado de Máquina (Ciência da Computação).
 
 ```bash
 pip install -r requirements.txt
-streamlit run penalty_hall/app.py
+streamlit run app.py
 ```
 
 A interface abre no navegador com três abas:
