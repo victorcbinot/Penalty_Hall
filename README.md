@@ -13,7 +13,8 @@ Aprendizado de Máquina (Ciência da Computação).
 ├── simulation.py    
 │── app.py           
 ├── requirements.txt
-└── README.md
+├── README.md
+└── Penalty_Hall_Apresentacao.pdf
 ```
 
 ## Como executar
